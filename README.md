@@ -1,6 +1,6 @@
 # Hi 👋, I'm Harsh Rai
 
-I'm Harsh Rai — a passionate learner, enthusiastic coder, and a firm believer in the power of technology to solve real-world problems. I thrive on exploring new ideas, continuously learning, and helping others grow in the tech community.
+A passionate learner, enthusiastic coder, and a firm believer in the power of technology to solve real-world problems. I thrive on exploring new ideas, continuously learning, and helping others grow in the tech community.
 ---
 
 ### What I Do
