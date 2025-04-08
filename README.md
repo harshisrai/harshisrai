@@ -1,12 +1,6 @@
 # Hi 👋, I'm Harsh Rai
 
 I'm Harsh Rai — a passionate learner, enthusiastic coder, and a firm believer in the power of technology to solve real-world problems. I thrive on exploring new ideas, continuously learning, and helping others grow in the tech community.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshisrai&show_icons=true&theme=radical" alt="Harsh's GitHub Stats" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshisrai&layout=compact&theme=radical" alt="Most Used Languages" width="47%" />
-</p>
-
 ---
 
 ### What I Do
