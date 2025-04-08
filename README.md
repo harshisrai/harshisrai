@@ -12,7 +12,7 @@ I’ve spent a lot of time exploring AI agents and Retrieval-Augmented Generatio
 
 ### My Favourite Creation
 
-[ProjectName](https://link-to-project.com)  
+[AURA](https://drive.google.com/file/d/1ii7ww6DJCZteZSmQy_zftk4xH9Sdxaph/view?usp=sharing)  
 *AURA* is an Autonomous RAG for financial analysis. A novel, multi-agentic framework specifically designed for financial question and answer (Q&A) tasks. The framework leverages the power of large language models (LLMs) and incorporates a human-in-the-loop approach, leading to more accurate and adaptable results.  
 > I made this project in collaboration with [Alankrit Kadian](https://github.com/alankritkadian) [Devanshu Dhawan](https://github.com/TheProBro) and Yugam Bhatt for Inter IIT Tech Meet 13.0, IIT Bombay.
 ---
